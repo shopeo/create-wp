@@ -1,0 +1,6 @@
+[submodule "templates/shopeo-child-scaffold"]
+	path = templates/shopeo-child-scaffold
+	url = https://github.com/shopeo/shopeo-child-scaffold.git
+[submodule "templates/shopeo-theme"]
+	path = templates/shopeo-theme
+	url = https://github.com/shopeo/shopeo-theme.git
