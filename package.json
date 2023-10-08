@@ -1,12 +1,13 @@
 {
-  "name": "@yanglee2421/create-app",
-  "version": "0.0.6",
+  "name": "@shopeo/create-wp",
+  "version": "0.0.1",
   "type": "module",
   "license": "MIT",
-  "author": "yanglee2421",
-  "description": "create a vite app",
+  "author": "shopeo",
+  "description": "create a wordpress plugin app",
   "keywords": [
-    "vite"
+    "shopeo",
+    "wordpress"
   ],
   "bin": {
     "create-app": "dist/main.mjs"
@@ -25,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanglee2421/create-app.git",
+    "url": "git+https://github.com/shopeo/create-wp.git",
     "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/yanglee2421/create-app/issues"
+    "url": "https://github.com/shopeo/create-wp/issues"
   },
-  "homepage": "https://github.com/yanglee2421/create-app/blob/main/README.md",
+  "homepage": "https://github.com/shopeo/create-wp/blob/main/README.md",
   "devDependencies": {
     "@types/node": "^20.5.6",
     "@types/prompts": "^2.4.4",
