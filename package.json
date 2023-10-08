@@ -1,6 +1,6 @@
 {
   "name": "@shopeo/create-wp",
-  "version": "0.0.3-0",
+  "version": "0.0.2-0",
   "type": "module",
   "license": "MIT",
   "author": "shopeo",
@@ -10,7 +10,7 @@
     "wordpress"
   ],
   "bin": {
-    "create-app": "dist/main.mjs"
+    "create-wp": "dist/main.mjs"
   },
   "files": [
     "dist",
